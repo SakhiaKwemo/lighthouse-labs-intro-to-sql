@@ -1,6 +1,6 @@
 # Lighthouse Labs | Intro to SQL
 
-[GitHub Repository Branch](https://github.com/SakhiaKwemo/lighthouse-labs-intro-to-sql/edit/main) | [Vimeo Video Recording](https://vimeo.com/776650572/0d13898d0e)
+[GitHub Repository Branch](https://github.com/SakhiaKwemo/lighthouse-labs-intro-to-sql) | [Vimeo Video Recording](https://vimeo.com/776650572/0d13898d0e)
 
 * [X] Databases
 * [X] PostgreSQL
